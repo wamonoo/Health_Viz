@@ -1,0 +1,1 @@
+Project to analyze variations in hospital billing in New Jersey using the Centers for Medicaid and Medicare Services Inpatient Prospective Payment System 2014 database. 
